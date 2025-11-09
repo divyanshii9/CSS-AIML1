@@ -1,0 +1,23 @@
+.box {
+    width: 800px;
+    background-color: yellow;
+    padding: 10px;
+    border: 35px solid blue;
+    margin: 30px;
+    text-align: center;
+    height: 100px;
+}
+div{
+    width: 1200px;
+    height: 500;
+    border: 3px solid black;
+    margin: 40px;
+
+}
+.outer_border{
+    width: 1000px;
+    border: 2px solid black;
+    margin: 20px;
+    height: 300px;
+    padding: 10px;
+}
