@@ -24,7 +24,10 @@
 #jk{
     font-size: 25px;
 } */
- p {
+
+
+
+ /* p {
     color: blueviolet;
  }
 
@@ -57,4 +60,21 @@
 
  .green{
    background-color: greenyellow;
+ } */
+
+ div{
+    height: 130px;
+    width: 1200px;
+    padding:10px;
+    margin: 50px;
+    border: 3px solid black;
+ }
+ h1 {
+     color: purple;
+     text-align: center;
+ }
+
+ p {
+     font-size: 25px;
+     color:red;
  }
