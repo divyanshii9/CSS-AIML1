@@ -1,4 +1,4 @@
-p{
+/* p{
     color: blue;
    background-color :red;
    text-align: center;
@@ -10,4 +10,51 @@ p{
 }
 #jk{
     font-size: 25px;
+} */
+ /* p{
+    color: blue;
+   background-color :red;
+   text-align: center;
 }
+
+.p {
+    color:green;
+    background-color: aquamarine;
+}
+#jk{
+    font-size: 25px;
+} */
+ p {
+    color: blueviolet;
+ }
+
+ #S {
+    color: black;
+ }
+
+ div {
+    width: 200px;
+    height: 400px;
+    margin: 100px;
+    padding: 20px;
+    border: 5px solid pink;
+ }
+
+ .red {
+    background-color: red;
+ }
+
+
+ .blue {
+    background-color: aqua;
+ }
+
+
+ .yellow{
+   background-color: yellow;
+ }
+
+
+ .green{
+   background-color: greenyellow;
+ }
